@@ -9,5 +9,5 @@ Included are:
 6. Solve a Linear Diophantine Equation
 7. Use the Sieve of Eratosthenes to find all Prime numbers less than or equal to n
 8. Binomial Expansion
-9. Pascal's Triangle
+9. Pascal's Triangle  
 I put this collection together for a Number Theory class. If you'd like to comment or add to this collection, Please e-mail me at peterkw@verizon.net
